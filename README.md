@@ -58,7 +58,7 @@ These insights are useful for the SF mayor, Police Commanders and district super
 
 The aim was to predict the number of preventable crime given a specific zipcode, day of the week, and hour, which will help the police plan their patrol schedules and resources. We managed to predict the number of preventable crime well using the XGBoost model, with a r-squared score of 0.8.
 
-Based on the above table, the San Francisco police can expect approximately 1 to 2 crimes to take place in the evening hours (6 to 8pm) of most days (with Saturday being a bit more frequent) at zipcode 94103. Therefore, they should send more resources to patrol zipcode 94103 during such evening hours to prevent such crime from taking place, and calibrate their resources for other zipcodes, days of the week, and hours accordingly.
+Based on our results, the San Francisco police can expect approximately 1 to 2 preventable crimes to take place in the evening hours (6 to 8pm) of most days (with Saturday being a bit more frequent) at zipcode 94103. Therefore, they should send more resources to patrol zipcode 94103 during such evening hours to prevent such crime from taking place, and calibrate their resources for other zipcodes, days of the week, and hours accordingly.
 
 ### Next Steps
 
